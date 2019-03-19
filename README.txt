@@ -1,6 +1,6 @@
 The files in this directory provide a survey about classes at university. 
 
-It starts with some personal information:
+It starts with some personal information:r
 current semester
 bachelor already finished? (either yes or no)
 hours worked (part time jobs) in each semester
